@@ -1,0 +1,6 @@
+//manifest.json
+//qtwebengine.apparmor
+//qml/Main.qml
+//assets/qt-logo.png
+//qtwebengine.desktop
+//qtwebengine
